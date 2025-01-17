@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "modid",
-	"version": "${version}",
+	"version": "1.0.0",
 	"name": "Example mod",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
@@ -31,7 +31,7 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.16.9",
-		"minecraft": "~1.21.4",
+		"minecraft": "~1.21.0",
 		"java": ">=21",
 		"fabric-api": "*"
 	},
